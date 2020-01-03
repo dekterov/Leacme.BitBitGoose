@@ -4,8 +4,8 @@
 
 This application features the ability to create a personal Bitcoin address and be able to share its public address with others to receive Bitcoins, check its balance, and transactions.
 
-![index](https://user-images.githubusercontent.com/6654513/71701751-aed1ab00-2d88-11ea-9e91-f17182cd08cd.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71701751-aed1ab00-2d88-11ea-9e91-f17182cd08cd.png)
 
 ## Application Compiling
 
